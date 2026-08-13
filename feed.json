@@ -9,5 +9,19 @@
         "name": "Vu Tran-Thanh"
     },
     "items": [
+        {
+            "id": "https://vutranthanhed.github.io/writing-workshop-a-scholarly-argument.html",
+            "url": "https://vutranthanhed.github.io/writing-workshop-a-scholarly-argument.html",
+            "title": "Writing Workshop: A Scholarly Argument",
+            "summary": "Test site",
+            "content_html": "<p>Test site</p>",
+            "author": {
+                "name": "Vu Tran-Thanh"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-13T08:42:29+07:00",
+            "date_modified": "2026-08-13T08:42:29+07:00"
+        }
     ]
 }
