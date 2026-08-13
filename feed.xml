@@ -3,30 +3,10 @@
     <title>Dr Tran Thanh Vu</title>
     <link href="https://vutranthanhed.github.io/feed.xml" rel="self" />
     <link href="https://vutranthanhed.github.io" />
-    <updated>2026-08-13T08:50:00+07:00</updated>
+    <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>Vu Tran-Thanh</name>
     </author>
     <id>https://vutranthanhed.github.io</id>
 
-    <entry>
-        <title>Writing Workshop: A Scholarly Argument</title>
-        <author>
-            <name>Vu Tran-Thanh</name>
-        </author>
-        <link href="https://vutranthanhed.github.io/news/writing-workshop-a-scholarly-argument/"/>
-        <id>https://vutranthanhed.github.io/news/writing-workshop-a-scholarly-argument/</id>
-
-        <updated>2026-08-13T08:42:29+07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Test site
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Test site</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
