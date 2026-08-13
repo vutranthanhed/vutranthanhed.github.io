@@ -3,7 +3,7 @@
     <title>Dr Tran Thanh Vu</title>
     <link href="https://vutranthanhed.github.io/feed.xml" rel="self" />
     <link href="https://vutranthanhed.github.io" />
-    <updated>2026-08-13T20:50:35+07:00</updated>
+    <updated>2026-08-13T21:51:52+07:00</updated>
     <author>
         <name>Vu Tran-Thanh</name>
     </author>
@@ -47,7 +47,10 @@
 <p data-path-to-node="14,1,1"><i data-path-to-node="14,1,1" data-index-in-node="0">(Fees directly contribute to venue rental and event service costs.)</i></p>
 <h3 data-path-to-node="15"><strong data-path-to-node="15" data-index-in-node="3">Registration</strong></h3>
 <p data-path-to-node="15"> </p>
-<p> </p>
+<!-- Registration Form Embed -->
+<div class="registration-form-container"><div class="post__iframe"><iframe loading="lazy" width="744" height="1984" style="border: none; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 10px; width: 744px; height: 1984px;" src="https://script.google.com/macros/s/AKfycbxRqGWGkfUtB8CDJ0UycV4pv2YtQ_vGdy4WGMNxDI3bPDx9Eb-cDL09IQosEXLm3xc/exec" frameborder="0" marginheight="0" marginwidth="0">
+    Loading registration form...
+  </iframe></div></div>
             ]]>
         </content>
     </entry>
