@@ -3,10 +3,22 @@
     <title>Dr Tran Thanh Vu</title>
     <link href="https://vutranthanhed.github.io/feed.xml" rel="self" />
     <link href="https://vutranthanhed.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2026-08-13T20:13:09+07:00</updated>
     <author>
         <name>Vu Tran-Thanh</name>
     </author>
     <id>https://vutranthanhed.github.io</id>
 
+    <entry>
+        <title>[Research Workshop] Crafting a Scholarly Argument for Your Paper</title>
+        <author>
+            <name>Vu Tran-Thanh</name>
+        </author>
+        <link href="https://vutranthanhed.github.io/news/research-workshop-crafting-a-scholarly-argument-for-your-paper/"/>
+        <id>https://vutranthanhed.github.io/news/research-workshop-crafting-a-scholarly-argument-for-your-paper/</id>
+
+        <updated>2026-08-13T20:13:09+07:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>

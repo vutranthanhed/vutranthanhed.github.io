@@ -9,5 +9,17 @@
         "name": "Vu Tran-Thanh"
     },
     "items": [
+        {
+            "id": "https://vutranthanhed.github.io/news/research-workshop-crafting-a-scholarly-argument-for-your-paper/",
+            "url": "https://vutranthanhed.github.io/news/research-workshop-crafting-a-scholarly-argument-for-your-paper/",
+            "title": "[Research Workshop] Crafting a Scholarly Argument for Your Paper",
+            "author": {
+                "name": "Vu Tran-Thanh"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-13T20:13:09+07:00",
+            "date_modified": "2026-08-13T20:13:09+07:00"
+        }
     ]
 }
