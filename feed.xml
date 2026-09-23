@@ -3,12 +3,133 @@
     <title>Dr Tran Thanh Vu</title>
     <link href="https://vutranthanhed.github.io/feed.xml" rel="self" />
     <link href="https://vutranthanhed.github.io" />
-    <updated>2026-09-16T17:57:52+07:00</updated>
+    <updated>2026-09-23T15:41:04+07:00</updated>
     <author>
         <name>Vu Tran-Thanh</name>
     </author>
     <id>https://vutranthanhed.github.io</id>
 
+    <entry>
+        <title>EDURES101 - Sample Experimental Study</title>
+        <author>
+            <name>Vu Tran-Thanh</name>
+        </author>
+        <link href="https://vutranthanhed.github.io/news/edures101-sample-experimental-study/"/>
+        <id>https://vutranthanhed.github.io/news/edures101-sample-experimental-study/</id>
+
+        <updated>2026-09-23T15:41:04+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Sample Scenario &amp; Research Question Study: A randomized pretest–posttest experiment comparing a new Interactive AI Reading App (Treatment) against Standard Classroom Reading (Control) on 10th-grade reading comprehension scores (measured on a 0–50 point scale). Sample Size: N = 60 students (n1 = 30 treatment, n2&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span style="color: #02192b; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; font-size: 1.60181em; font-weight: bold; letter-spacing: -0.54px;">Sample Scenario &amp; Research Question</span></p>
+<div class="scenario-box">
+<p><strong>Study:</strong> A randomized pretest–posttest experiment comparing a new Interactive AI Reading App (Treatment) against Standard Classroom Reading (Control) on 10th-grade reading comprehension scores (measured on a 0–50 point scale).</p>
+<p><strong>Sample Size:</strong> <em>N</em> = 60 students (<em>n</em><sub>1</sub> = 30 treatment, <em>n</em><sub>2</sub> = 30 control).</p>
+<p><strong>Statistical Method:</strong> Analysis of Covariance (ANCOVA), adjusting posttest comprehension scores for baseline pretest scores.</p>
+</div>
+<section>
+<h2>1. Sample Results Section (as reported in a paper)</h2>
+<h3>Descriptive Statistics</h3>
+<p>Prior to instruction, baseline pretest scores were equivalent between the treatment group (<em>M</em> = 22.40, <em>SD</em> = 4.10) and the control group (<em>M</em> = 22.10, <em>SD</em> = 4.25). Following the 6-week intervention, posttest comprehension scores improved in both conditions, with the treatment group averaging <em>M</em> = 34.50 (<em>SD</em> = 3.80) and the control group averaging <em>M</em> = 31.00 (<em>SD</em> = 4.15).</p>
+<h3>Inferential Analysis (ANCOVA)</h3>
+<p>An Analysis of Covariance (ANCOVA) was conducted to evaluate the effect of the instructional intervention on posttest reading scores while statistically controlling for baseline pretest scores. The preliminary check for homogeneity of regression slopes was met, <em>F</em>(1, 56) = 0.42, <em>p</em> = .520.</p>
+<p>After adjusting for pretest scores, the main effect of the intervention was statistically significant, <em>F</em>(1, 57) = 14.85, <em>MS<sub>e</sub></em> = 8.12, <em>p</em> &lt; .001, η<sub>p</sub><sup>2</sup> = .207. The adjusted mean difference between groups was 3.50 points, 95% CI [1.69, 5.31], representing a large standardized effect size (Cohen's <em>d</em> = 0.86).</p>
+<h3>ANCOVA Summary Table</h3>
+<table style="border-collapse: collapse; border-color: #000000; border-style: solid;">
+<thead>
+<tr>
+<th>Source</th>
+<th>Sum of Squares (<em>SS</em>)</th>
+<th><em>df</em></th>
+<th>Mean Square (<em>MS</em>)</th>
+<th><em>F</em></th>
+<th><em>p</em>-value</th>
+<th>Partial η<sup>2</sup></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Pretest (Covariate)</td>
+<td>312.40</td>
+<td>1</td>
+<td>312.40</td>
+<td>38.47</td>
+<td>&lt; .001</td>
+<td>.403</td>
+</tr>
+<tr>
+<td>Group (Intervention)</td>
+<td>120.58</td>
+<td>1</td>
+<td>120.58</td>
+<td>14.85</td>
+<td>&lt; .001</td>
+<td>.207</td>
+</tr>
+<tr>
+<td>Error (Residual)</td>
+<td>462.84</td>
+<td>57</td>
+<td>8.12</td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Total</td>
+<td>895.82</td>
+<td>59</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+</tbody>
+</table>
+<p class="table-note">Note: <em>p</em> &lt; .05 indicates statistical significance.</p>
+</section>
+<section>
+<h2>2. Plain-English Breakdown of the Statistics</h2>
+<h3>Baseline &amp; Group Means</h3>
+<dl class="stat-list">
+<dt><em>N</em> = 60 / <em>n</em> = 30</dt>
+<dd>Tells you 60 total students participated (30 per classroom group).</dd>
+<dt><em>M</em> = 34.50 vs. <em>M</em> = 31.00</dt>
+<dd>The raw average posttest scores show that students using the AI app scored 3.50 points higher on average than students in the control class.</dd>
+<dt><em>SD</em> = 3.80</dt>
+<dd>Indicates individual student scores generally varied by about ± 3.80 points around their group mean.</dd>
+</dl>
+<h3>Inferential Test (<em>F</em>, <em>df</em>, <em>p</em>, <em>MS<sub>e</sub></em>)</h3>
+<dl class="stat-list">
+<dt><em>F</em>(1, 57) = 14.85</dt>
+<dd>The <em>F</em>-ratio compares the variance explained by the reading app against background error/noise. An <em>F</em>-value well above 1.0 indicates that the difference between teaching methods is much larger than random variation.</dd>
+<dt>Degrees of Freedom <em>df</em>(1, 57)</dt>
+<dd>Reflects the design constraints—1 degree of freedom for comparing 2 treatment groups, and 57 residual degrees of freedom (<em>N</em> - groups - covariates = 60 - 2 - 1 = 57).</dd>
+<dt><em>MS<sub>e</sub></em> = 8.12</dt>
+<dd>The Mean Square Error represents the remaining unexplained variance in student performance after accounting for pretest scores and instructional method.</dd>
+<dt><em>p</em> &lt; .001</dt>
+<dd>The <em>p</em>-value indicates that if the reading app actually had zero true impact, there would be less than a 0.1% chance of seeing a 3.50-point gain purely by random sampling luck. Because <em>p</em> &lt; .05, we reject the null hypothesis.</dd>
+</dl>
+<h3>Effect Size &amp; Practical Impact</h3>
+<dl class="stat-list">
+<dt>Partial η<sup>2</sup> = .207 (Eta-Squared)</dt>
+<dd>Quantifies that 20.7% of the total variation in students' final reading comprehension scores was directly driven by the reading app intervention.</dd>
+<dt>Cohen's <em>d</em> = 0.86</dt>
+<dd>Expresses the score difference in standard deviation units (0.86 <em>SD</em>). According to educational benchmarks, <em>d</em> &gt; 0.80 represents a large practical effect, proving the app caused a meaningful boost in learning beyond mere statistical significance.</dd>
+</dl>
+<h3>Precision (95% Confidence Interval)</h3>
+<dl class="stat-list">
+<dt>95% CI [1.69, 5.31]</dt>
+<dd>We can be 95% confident that the true population learning benefit of this reading app lies between 1.69 and 5.31 test points. Because the entire bracket is positive and well above zero, it confirms both the direction and substantial strength of the intervention.</dd>
+</dl>
+</section>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>EDURES - Session 03 - Web Practice</title>
         <author>
