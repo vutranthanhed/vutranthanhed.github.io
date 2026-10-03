@@ -3,12 +3,59 @@
     <title>Dr Tran Thanh Vu</title>
     <link href="https://vutranthanhed.github.io/feed.xml" rel="self" />
     <link href="https://vutranthanhed.github.io" />
-    <updated>2026-09-23T15:41:04+07:00</updated>
+    <updated>2026-10-03T17:57:30+07:00</updated>
     <author>
         <name>Vu Tran-Thanh</name>
     </author>
     <id>https://vutranthanhed.github.io</id>
 
+    <entry>
+        <title>The MA Toolkit: Setting Up for Your Thesis</title>
+        <author>
+            <name>Vu Tran-Thanh</name>
+        </author>
+        <link href="https://vutranthanhed.github.io/news/the-ma-toolkit-setting-up-for-your-thesis/"/>
+        <id>https://vutranthanhed.github.io/news/the-ma-toolkit-setting-up-for-your-thesis/</id>
+
+        <updated>2026-10-03T17:57:23+07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Once you and your supervisor have finalised a research idea or topic, it is tempting to dive straight into the reading. However, before you begin downloading papers or drafting chapters, establishing a solid workflow is crucial. Here is your foundational 'MA Toolkit'—four essential steps to&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p data-path-to-node="1">Once you and your supervisor have finalised a research idea or topic, it is tempting to dive straight into the reading. However, before you begin downloading papers or drafting chapters, establishing a solid workflow is crucial.</p>
+<p data-path-to-node="2">Here is your foundational 'MA Toolkit'—four essential steps to prepare your digital workspace for the research journey ahead.</p>
+<h3 data-path-to-node="3">Step 1: Install essential applications onto your PC</h3>
+<p data-path-to-node="4">Your computer is your primary research environment, and the right software will save you countless hours. Ensure you have the following reliable tools installed and updated before you begin:</p>
+<ul data-path-to-node="5">
+<li>
+<p data-path-to-node="5,0,0"><strong data-path-to-node="5,0,0" data-index-in-node="0">Word processing:</strong> A robust programme (such as Microsoft Word) is essential for drafting, formatting, and safely backing up your manuscript.</p>
+</li>
+<li>
+<p data-path-to-node="5,1,0"><strong data-path-to-node="5,1,0" data-index-in-node="0">PDF reader:</strong> You will be reading hundreds of journal articles. A dedicated reader that allows for easy highlighting, commenting, and extracting notes is indispensable.</p>
+</li>
+<li>
+<p data-path-to-node="5,2,0"><strong data-path-to-node="5,2,0" data-index-in-node="0">Reference Management system:</strong> Never rely on manual referencing. Install a tool like Zotero or EndNote early on to store your PDFs, organise your library, and automatically generate citations as you write.</p>
+</li>
+<li>
+<p data-path-to-node="5,3,0"><strong data-path-to-node="5,3,0" data-index-in-node="0">Quantitative analysis software:</strong> If your methodology involves statistical data, install user-friendly, robust software such as JASP or jamovi.</p>
+</li>
+<li>
+<p data-path-to-node="5,4,0"><strong data-path-to-node="5,4,0" data-index-in-node="0">Qualitative analysis software:</strong> If you are conducting interviews or thematic analysis, an open-source tool like Taguette is excellent for coding and organising textual data.</p>
+</li>
+</ul>
+<h3 data-path-to-node="6">Step 2: Familiarise yourself with APA 7th</h3>
+<p data-path-to-node="7">Academic rigour requires precise formatting. The 7th edition of the American Psychological Association (APA) style is the standard for many educational and social science disciplines. Take time now to understand the core rules for in-text citations, reference lists, heading levels, and table formatting. Mastering this early on prevents frantic, error-prone formatting in the weeks right before your submission deadline.</p>
+<h3 data-path-to-node="8">Step 3: Organise a notebook for your literature review</h3>
+<p data-path-to-node="9">A strong literature review is not simply a descriptive list of what you have read; it is a critical synthesis of ideas. Set up a dedicated system—whether it is a digital database, a detailed spreadsheet, or a structured document—to track key theories, methodological approaches, and findings from your reading. Documenting your critical reflections and the connections between different papers as you read will make drafting the actual chapter significantly easier.</p>
+<h3 data-path-to-node="10">Step 4: Familiarise yourself with Gemini Notebook</h3>
+<p data-path-to-node="11">Managing a vast amount of academic literature can quickly become overwhelming. Gemini Notebook is a highly effective AI-powered workspace designed to help you organise and synthesize your research materials. By uploading your curated journal articles and notes, you build a personalised, grounded knowledge base. You can then query your own sources, ask the notebook to summarise complex methodologies, or have it help you spot thematic connections across multiple papers that you might have otherwise missed.</p>
+<p data-path-to-node="13">Setting up your digital toolkit might take an afternoon, but the structure and efficiency it provides will carry you all the way through to a successful defence.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>EDURES101 - Sample Experimental Study</title>
         <author>
